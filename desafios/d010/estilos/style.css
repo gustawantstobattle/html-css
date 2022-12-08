@@ -44,7 +44,7 @@ header {
 }
 
 header > h1{
-    color: white;
+    color: #d4ffd6;
     font-family: var(--fonte-destaque);
     font-size: 3em;
     font-weight: normal;
